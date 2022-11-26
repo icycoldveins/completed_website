@@ -147,7 +147,8 @@ footer {
   text-align: left;
 }
 .about p {
-  text-align: center;
+  padding-left:6%;
+  text-align: left;
   font-size: small;
 }
 /* change link color */
