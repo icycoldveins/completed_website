@@ -1,0 +1,161 @@
+
+.toprightlinks {
+  /*put top right of website  */
+  /* add some padding to the top */
+  padding-top: 25px;
+  display: inline-block;
+  color: #fff;
+  font-size: 0.6em;
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  /* top right */
+}
+.topleftlinks {
+  /*put top left of website  */
+  /* add some padding to the top */
+  padding-top: 25px;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* top left */
+}
+.topleftlinks p{
+  margin: 0 50px;
+  /* top right */
+  font-size: 1.0em;
+  text-decoration: none;
+}
+.toprightlinks a {
+  margin: 0 4px;
+  /* top right */
+  text-decoration: none;
+}
+.social-media {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  /* move to bottom */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.social-media a {
+  display: inline-block;
+  margin: 0 10px;
+  color: #fff;
+  font-size: 1.5em;
+  text-decoration: none;
+  white-space: normal;
+}
+.social-media i {
+  font-size: 3em;
+}
+/* paragraph style */
+/* change background color of website */
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+  padding: 0 0 0 50px;
+}
+.middleland h1 {
+  text-align: center;
+}
+.middleland p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: white;
+  /* add some padding */
+  padding: 0 0 0 50px;
+}
+body {
+  background-image: url("ales-nesetril-Im7lZjxeLhg-unsplash.jpg");
+  /* make image cover the whole page */
+  background-size: cover;
+  /* make image fixed */
+  background-attachment: fixed;
+  /* make image center */
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* change size of icons */
+.social-media a {
+  font-size: 1.5em;
+  color: white;
+  /* move to bottom */
+}
+/* make css for small */
+small {
+  font-size: 1.7em;
+  color: white;
+  /* remove underline for a ref */
+  /* get rid of underline for links */
+}
+
+h2 {
+  /* move a little to the right */
+  text-align: center;
+  color: white;
+  /* change sizing */
+  font-size: 3em;
+  /* change font */
+  font-family: Arial, Helvetica, sans-serif;
+}
+html {
+  overflow-y: scroll;
+}
+#footer {
+  size: 3em;
+  color: white;
+  text-align: center;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+  /* spacing */
+  margin: 0 5px;
+}
+footer {
+  margin-top: auto;
+}
+/* chagne span style */
+.smalling span {
+  color: white;
+  font-size: 0.5em;
+  /* change font roboto */
+  font-family: "Monospace", "Courier New", Courier, monospace;
+  /* change font weight */
+  font-weight: 300;
+  /* change line height */
+  line-height: 1.5em;
+  /* change text align */
+  text-align: center;
+}
+.about {
+  /* left align */
+  text-align: left;
+}
+.about p {
+  text-align: left;
+  font-size: small;
+  padding: 0 0 0 50px;
+}
+/* change link color */
+.about a {
+  color: #5CA4A9;
+  text-decoration: none;
+}
