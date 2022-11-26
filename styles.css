@@ -77,7 +77,7 @@ h1 {
   /* add some padding */
 }
 body {
-  background-image: url("ales-nesetril-Im7lZjxeLhg-unsplash.jpg");
+  background-image: url("oskar-yildiz-cOkpTiJMGzA-unsplash.jpg");
   /* make image cover the whole page */
   background-size: cover;
   /* make image fixed */
@@ -149,7 +149,7 @@ footer {
 .about p {
   padding-left:6%;
   text-align: left;
-  font-size: small;
+  font-size: medium;
 }
 /* change link color */
 .about a {
