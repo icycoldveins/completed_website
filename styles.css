@@ -10,7 +10,10 @@
   position: absolute;
   top: 0;
   right: 0;
+  /* padding right */
+  padding-right: 40px;
   /* top right */
+  
 }
 .topleftlinks {
   /*put top left of website  */
